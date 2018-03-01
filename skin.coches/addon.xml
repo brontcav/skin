@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="skin.coches" version="1.0.0" name="Cabron Coches" provider-name="CABRONES S.A.">
+  <requires>
+    <import addon="xbmc.gui" version="5.12.0"/>
+    <import addon="script.favourites" version="7.1.1"/>
+    <import addon="script.skin.helper.service" version="1.0.100"/>
+    <import addon="resource.uisounds.amber" version="1.0.0"/>
+  </requires>
+  <extension point="xbmc.gui.skin" debugging="false">
+    <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es_ES">Skin Supercoches cabrones</summary>
+    <description lang="es_ES">Skin de coches cabrones[CR]Las imagenes son de los coches de los miembros del grupo</description>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <source></source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+      <screenshot>resources/Captura.jpg</screenshot>
+	  <screenshot>resources/Captura2.jpg</screenshot>
+	  <screenshot>resources/Captura3.jpg</screenshot>
+	  <screenshot>resources/Captura4.jpg</screenshot>
+	  <screenshot>resources/Captura5.jpg</screenshot>
+	  <screenshot>resources/Captura9.jpg</screenshot>
+    </assets>
+    <news>Nada nuevo viejo.</news>
+  </extension>
+</addon>
