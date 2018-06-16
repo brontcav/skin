@@ -26,6 +26,6 @@
 	  <screenshot>resources/Captura5.jpg</screenshot>
 	  <screenshot>resources/Captura9.jpg</screenshot>
     </assets>
-    <news>Nada nuevo viejo.</news>
+    <news>Nada nuevo viejo...</news>
   </extension>
 </addon>
